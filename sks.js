@@ -10,7 +10,7 @@ function sver ( name ){
 }
 function check()
 {
-if ( calc.answer.value == "Сортавала" )
+if ( calc.answer.value == "РЎРѕСЂС‚Р°РІР°Р»Р°" )
      alert("true");
 else alert("lie");
 }
