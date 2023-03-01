@@ -15,7 +15,8 @@
 
 <p>/</p>
 
-<p>/<a href="#" OnClick="show('details');return false;">гениев творчества и науки.</a></p>
+<p>/<a href="#" OnClick="show('details');return false;">
+  .</a></p>
 <div id="details" class="hidden">
 <p>Другие известные фильмы в которых снимался Тоби Магуайр</p>
 <div class='inpicture'>
