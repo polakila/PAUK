@@ -22,43 +22,43 @@
 <div class='inpicture'>
 <p> Saturday Night Live
 Saturday Night Live, сериал, 1975–...
-Dustin Diamond
+Dustin Diamond;
 
 <p>Великий Гэтсби
 The Great Gatsby, 2013
-Nick Carraway
+Nick Carraway;
 
 <p>Плезантвиль
 Pleasantville, 1998
-David
+David;
 
 <p>Фаворит
 Seabiscuit, 2003
-Red Pollard
+Red Pollard;
 
 <p>Между двумя папоротниками с Заком Галифианакисом
 Between Two Ferns with Zach Galifianakis, ТВ, 2008
-Tobey Maguire
+Tobey Maguire;
 
 <p>Жизнь этого парня
 This Boy's Life, 1993
-Chuck Bolger
+Chuck Bolger;
 
 <p>Правила виноделов
 The Cider House Rules, 1999
-Homer Wells
+Homer Wells;
 
 <p>Страх и ненависть в Лас-Вегасе
 Fear and Loathing in Las Vegas, 1998
-Hitchhiker
+Hitchhiker;
 
 <p>Вавилон
 Babylon, 2022
-James McKay
+James McKay;
 
 <p>Братья
 Brothers, 2009
-Capt. Sam Cahill
+Capt. Sam Cahill.
 </p>
 </div>
 <a href="#" OnClick="sver('details');return false;">Свернуть</a></div>
