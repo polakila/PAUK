@@ -1,12 +1,10 @@
 # PAUK
 <html>
 <head>
-
-<link rel="stylesheet" href="valaam.js">
-<script  type="text/javascript" src="sks.js"></script>
 </head>
 <body>
-
+<link rel="stylesheet" href="valaam.js">
+<script  type="text/javascript" src="sks.js"></script>
 <h1 align="center">Тоби Магуайр в роли человека паука</h1>
 <div class='picture'>
 <img src="images/valaam.jpg">
