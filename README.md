@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<link rel="stylesheet" href="valam.css">
+<link rel="stylesheet" href="valaam.js">
 <script  type="text/javascript" src="sks.js"></script>
 </head>
 <body>
